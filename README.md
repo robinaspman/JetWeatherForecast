@@ -1,1 +1,1 @@
-Weather app.
+Forecast app using open weather api.
